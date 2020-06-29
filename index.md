@@ -11,3 +11,5 @@ Homer Jay Simpson [ˈhoʊmɚ] ist eine der Hauptfiguren der Zeichentrick-Fernseh
 
 Homers Ausruf:
 > D'oh
+
+<img src="https://simpsonspedia.net/images/f/f7/Homer_Simpson_2.png"/>
