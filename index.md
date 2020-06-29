@@ -8,3 +8,6 @@ Homer Jay Simpson [ˈhoʊmɚ] ist eine der Hauptfiguren der Zeichentrick-Fernseh
 * egoistisch
 * kreativ und unwissend brilliant
 * infantil
+
+Homers Ausruf:
+> D'oh
